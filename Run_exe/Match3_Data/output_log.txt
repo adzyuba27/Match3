@@ -1,0 +1,25 @@
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 4800 Series (ID=0x9440)
+    Vendor:   ATI
+    VRAM:     1009 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.053 seconds
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Alexandro\Desktop\GitHub\Run_exe\Match3_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a84 -> priority: 1 
